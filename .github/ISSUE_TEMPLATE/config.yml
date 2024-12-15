@@ -3,7 +3,7 @@ blank_issues_enabled: false
 contact_links:
   - name: "Error: Sign in to confirm you’re not a bot"
     url: "https://github.com/distubejs/ytdl-core/issues/21"
-    about: "Don't create a new issue. Please check how to use cookie with the issue link here and comment if you have any questions."
+    about: "Don't create a new issue. Please check how to use cookie with the #21 issue and comment if you have any questions."
   - name: "WARNING: Could not parse *** function"
     url: "https://github.com/distubejs/ytdl-core/issues/144"
     about: "Don't create a new issue. Please upload your file to the #144 issue and comment if you have any questions."
